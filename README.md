@@ -4,7 +4,7 @@ Absolutely the hardest project I've ever done.
 
 A WhatsApp copy app using Flutter, SocketIo and Node.
 
-This project is a personal project done with the help of Dev Stack's long playlist <a href="https://www.youtube.com/watch?v=uydBHliNXwE&list=PLtIU0BH0pkKrgqaT-9JSrRRyetkVEkDn6&ab_channel=DevStack">tutorial</a>.
+This project is a personal project done with the help of Dev Stack's long playlist <a href = "https://www.youtube.com/watch?v=uydBHliNXwE&list=PLtIU0BH0pkKrgqaT-9JSrRRyetkVEkDn6&ab_channel=DevStack" target = "_blank">tutorial</a>.
 
 Feel free to make changes.
 
